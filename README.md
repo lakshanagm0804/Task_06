@@ -5,7 +5,6 @@ The objective of this task is to analyze monthly revenue and order volume using 
 
 🛠️ Tools Used
 🐬 MySQL
-💻 SQL
 📄 MySQL Workbench
 🗂️ Dataset
 
